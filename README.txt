@@ -1,2 +1,3 @@
-djxco和pycharm_vuecli是项目的前端，分别对应用户端和管理员端，默认运行在8000和8001端口
-FlaskApi是项目的后端，默认运行在5000端口
+`djxco` and `pycharm_vuecli` are the front-end of the project, the respective ports for the user-end and administrator-end are 8000 and 8001 by default.
+
+`FlaskApi` is the back-end of the project, running on port 5000 by default.
